@@ -1,6 +1,12 @@
+# Facebook Clone
+
 Designing the UI Desktop of the Facebook Homepage. Site url: https://facebook-clone-ruben.vercel.app
 
-## Available Scripts
+## Home Screen
+
+![facebook-clone-ruben vercel app_](https://github.com/RubenChirino/facebook-clone/assets/52714843/c1ab009e-c26e-4047-8ec5-6f42dc151869)
+
+### Available Scripts
 
 In the project directory, you can run:
 
